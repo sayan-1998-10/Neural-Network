@@ -9,6 +9,6 @@ I have randomly initialised the Weight matrix (Theta1 and Theta2) of shape (25,4
 Note:-The column sizes of two weight matrices are 401 and 26 because of bias node that has to be added.
 
 Packages used - numpy,scipy.sio,pandas.
-Accuracy achieved by this model for learning_rate=2.00 and no.of itertions = 600 : 95.54%
+Accuracy achieved by this model for learning_rate=2.00 and no.of iterations = 600 : 95.54%
 
 Activation function-sigmoid.
